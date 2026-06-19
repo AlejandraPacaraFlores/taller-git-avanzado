@@ -1,3 +1,3 @@
 Este es el archivo base del proyecto.
 
-Texto A desde Main.
+Línea editada desde mi PC.
